@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e59b1e24-b5cd-4285-aaf5-b908bd48f1c5</dc:identifier>
+        <dc:title>Holy Ghosts</dc:title>
+        <dc:creator opf:file-as="Jansen, Gary" opf:role="aut">Gary Jansen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-03T07:00:00+00:00</dc:date>
+        <dc:description>In this extraordinary true story, the haunting of a Long Island household forces a respected writer and editor to reevaluate the mysteries of life and death as he struggles with the frightening truths of his childhood home and his town's past. 
+
+Growing up in Rockville Centre, Long Island, Gary Jansen never believed in ghosts. His mother - a devoutly Catholic woman with a keen sense for the uncanny - claimed that their family house was haunted. But Jansen never found anything inexplicable in how their doorbell would sometimes ring of its own accord; or in the mysterious sounds of footsteps or breaking glass that occasionally would fill their home; or even in his mother's sometimes unnervingly accurate visions of future events and tragedies. Though he once experienced a supernatural encounter in a Prague church as a young man, Jansen grew up into a rationalist, as well as a noted writer and editor. 
+
+In 2001, Jansen moved back into the very same house where he had once grown up, to raise a family with his wife. One day in 2007 he encountered a weird physical sensation in his toddler son's bedroom - "like an electric hand rubbing the length of my back. I stopped and couldn't move, not because I was stuck but for the simple reason that the feeling was so strange. What the hell is that? Then the pressure seemed to break apart and for a brief moment I felt like I had a million little bugs crawling all over my back and neck." 
+
+This became the first step in uncovering a frightening, full-blown haunting in his home-a phenomenon which lasted a full year and eventually included unveiling the identities of the spirits who occupied his house; reliving a tragic murder in his hometown; encountering mind-boggling coincidences between local history and episodes in his household; and finally, with the help of Mary Ann Winkowski, the real-life inspiration for TV's The Ghost Whisperer, ridding his house of these uninvited visitors. The events of that year, in which Jansen's family was terrified by ghosts in their own home, would forever change how he viewed the mysteries of life and death. 
+
+Holy Ghosts is not only a gripping true-life ghost story but a wry and touching memoir, as well as a meditation on the relationship between religion and the paranormal, which are often considered at odds with each other, but which the author shows are intimately linked.</dc:description>
+        <dc:publisher>Penguin Group USA, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781101443378</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Religon</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-02T18:33:16.957000+00:00" name="calibre:timestamp"/>
+        <meta content="Holy Ghosts" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Religon&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

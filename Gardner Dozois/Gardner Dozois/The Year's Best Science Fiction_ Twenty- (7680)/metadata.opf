@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1c756dd-86c4-4229-a023-c26cb20bde7e</dc:identifier>
+        <dc:title>The Year's Best Science Fiction: Twenty-Sixth Annual Collection</dc:title>
+        <dc:creator opf:file-as="Dozois, Gardner" opf:role="aut">Gardner Dozois</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-23T06:51:12.671000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Veteran editor Dozois, 15-time Hugo winner, offers 30 stories, several of them Hugo-nominated. The table of contents is dominated by familiar names like Michael Swanwick and Greg Egan, but occasionally leavened with relative newcomers like Hannu Rajaniemi and more obscure authors like James Alan Gardner. Settings range from the present-day (Nancy Kress's The Erdmann Nexus) to the distant future (Ian McDonald's The Tear) and alternate history (Aliete de Bodard's Butterfly, Falling at Dawn). Similarly the moods range from relatively upbeat (Dominic Green's Shining Armour) to pessimistic (Swanwick's From Babel's Fallen Glory We Fled). In some entries the SF elements appear to be almost an afterthought, but most earn their inclusion. Dozois also provides short biographies, a detailed overview of the year in SF and a lengthy list of honorable mentions. This is a worthy addition to a venerable series. &lt;em&gt;(July)&lt;/em&gt; &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;Praise for Gardner Dozois and &lt;em&gt;The Year’s Best Science Fiction: Twenty-fifth Annual Collection&lt;/em&gt;:
+&lt;/p&gt;
+&lt;p&gt;“The 25th installment of editor extraordinaire Dozois's annual collection packs a wallop.” –_Publishers Weekly_
+&lt;/p&gt;
+&lt;p&gt;"For more than a quarter century, Gardner Dozois's _THE BEST SCIENCE FICTION OF THE YEAR_ has defined the field. It is the most important anthology, not only annually, but overall." --Charles N. Brown, publisher of &lt;em&gt;Locus Magazine&lt;/em&gt;
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312551049</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Dozois Year's Best Science Fiction" name="calibre:series"/>
+        <meta content="26" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-10T06:45:30.418000+00:00" name="calibre:timestamp"/>
+        <meta content="Year's Best Science Fiction: Twenty-Sixth Annual Collection, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

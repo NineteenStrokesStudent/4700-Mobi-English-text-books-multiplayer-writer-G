@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f8edee8-23d0-4635-a1ae-fdcd186aba1e</dc:identifier>
+        <dc:title>Hatchet</dc:title>
+        <dc:creator opf:file-as="Paulsen, Gary" opf:role="aut">Gary Paulsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-25T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;When the pilot of a small, two-person plane has a heart attack and dies, Brian has to crash land in the forest of a Canadian wilderness. He has little time to realize how alone he is, because he is so busy just trying to survive. And learning to survive, to plan on food not just for a day but untiland ifhe is rescued, only begins when he stops pitying himself and understands that no one can help him. He is on his own, without his divorced father, whom he was to visit, or his mother, whom Brian saw kissing another man before the divorce. This is a heart-stopping story: it seems that at every moment Brian is forced to face a life-and-death decision, and every page makes readers wonder at the density of descriptive detail Paulsen has expertly woven together. Poetic texture and realistic events are combined to create something beyond adventure, a book that plunges readers into the cleft of the protagonist's experience. Ages 11-13. &lt;br /&gt;
+Copyright 1987 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;From School Library Journal&lt;/h3&gt;
+&lt;p&gt;Grade 8-12 Brian Robeson, 13, is the only passenger on a small plane flying him to visit his father in the Canadian wilderness when the pilot has a heart attack and dies. The plane drifts off course and finally crashes into a small lake. Miraculously Brian is able to swim free of the plane, arriving on a sandy tree-lined shore with only his clothing, a tattered windbreaker, and the hatchet his mother had given him as a present. The novel chronicles in gritty detail Brian's mistakes, setbacks, and small triumphs as, with the help of the hatchet, he manages to survive the 54 days alone in the wilderness. Paulsen effectively shows readers how Brian learns patienceto watch, listen, and think before he actsas he attempts to build a fire, to fish and hunt, and to make his home under a rock overhang safe and comfortable. An epilogue discussing the lasting effects of Brian's stay in the wilderness and his dim chance of survival had winter come upon him before rescue adds credibility to the story. Paulsen tells a fine adventure story, but the sub-plot concerning Brian's preoccupation with his parents' divorce seems a bit forced and detracts from the book. As he did in Dogsong (Bradbury, 1985), Paulsen emphasizes character growth through a careful balancing of specific details of survival with the protagonist's thoughts and emotions. Barbara Chatton, College of Education, University of Wyoming, Laramie&lt;br /&gt;
+Copyright 1987 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416925088</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Children's Books</dc:subject>
+        <meta content="Brian Robeson" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T23:09:03.405000+00:00" name="calibre:timestamp"/>
+        <meta content="Hatchet" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Children's Books&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

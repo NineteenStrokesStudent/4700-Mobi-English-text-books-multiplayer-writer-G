@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a6d189c-326d-4ae9-8b82-0c6b76bc5480</dc:identifier>
+        <dc:title>Brian's Winter</dc:title>
+        <dc:creator opf:file-as="Paulsen, Gary" opf:role="aut">Gary Paulsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-01-12T23:03:28.523000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;First there was Hatchet, Paulsen's classic tale of a boy's survival in the north woods after a plane crash. Then came a sequel, The River, and, last year, Father Water, Mother Woods, a collection of autobiographical essays introduced as the nonfiction counterpart to Hatchet. Now Paulsen backs up and asks readers to imagine that Brian, the hero, hadn't been rescued after all. His many fans will be only too glad to comply, revisiting Brian at the onset of a punishing Canadian winter. The pace never relents-the story begins, as it were, in the middle, with Brian already toughened up and his reflexes primed for crisis. Paulsen serves up one cliffhanger after another (a marauding bear, a charging elk), and always there are the supreme challenges of obtaining food and protection against the cold. Authoritative narration makes it easy for readers to join Brian vicariously as he wields his hatchet to whittle arrows and arrowheads and a lance, hunts game, and devises clothes out of animal skins; while teasers at the ends of chapters keep the tension high ("He would hunt big tomorrow, he thought.... But as it happened he very nearly never hunted again"). The moral of the story: it pays to write your favorite author and ask for another helping. Ages 12-up. &lt;br /&gt;
+Copyright 1995 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;From School Library Journal&lt;/h3&gt;
+&lt;p&gt;Grade 5-9-At the conclusion of Hatchet (Macmillan, 1987), Brian Robeson is rescued after surviving a plane crash and summer alone in the north Canadian woods. Now, in this second sequel, Paulsen shows what would have happened if the 13-year-old boy had been forced to endure the harsh winter. For a brief time, Brian lives in relative luxury, living off the contents of the recently recovered survival pack, which included a gun for hunting. Then, his freeze-dried food runs out and his rifle fails, and he realizes how careless and complacent he has become. Suddenly aware of the changing seasons, he works frantically to winterize his shelter, fashion warmer clothes from animal skins, and construct a more powerful bow and arrow. About the time he has mastered winter survival, he discovers a dog-sled trail that leads him to a trapper and final rescue. The same formula that worked before is successful here: the driving pace of the narration, the breathtaking descriptions of nature, and the boy who triumphs on the merits of efficient problem solving. The author's ability to cast a spell, mesmerize his audience, and provide a clinic in winter survival is reason enough to buy this novel. Although the plot is both familiar and predictable, Paulsen fans will not be disappointed.?Tim Rausch, Crescent View Middle School, Sandy, UT&lt;br /&gt;
+Copyright 1996 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440227199</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Children's Books</dc:subject>
+        <meta content="Brian Robeson" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T23:00:22.110000+00:00" name="calibre:timestamp"/>
+        <meta content="Brian's Winter" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Children's Books&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

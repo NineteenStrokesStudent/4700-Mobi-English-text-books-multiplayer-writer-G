@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7681</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50212387-628d-417c-85e5-4e769b616bd3</dc:identifier>
+        <dc:title>Brian's Hunt</dc:title>
+        <dc:creator opf:file-as="Paulsen, Gary" opf:role="aut">Gary Paulsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-11T23:04:22.820000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;p&gt;The multitudes of __ fans) will be thrilled to find that the author has penned yet another story about Brian Robeson. Although Paulsen once claimed that he would "write no more about Brian," he seems to have been softened by the "staggering amounts of mail from readers" begging for more about the teen who is more at home alone in the wilderness than in the hustle and bustle of city life. In &lt;em&gt;Brian’s Hunt&lt;/em&gt;, the 16-year-old returns to the remote woods and lakes of Canada, where he encounters a mysteriously injured dog. His experiences two years earlier, after surviving a plane crash and months alone with only a hatchet to protect and provide for himself (&lt;strong&gt;, &lt;/strong&gt;, etc.), have prepared him well to survive now. But can anything prime him for the horror that awaits him on an island campsite where he intends to meet his Cree friends? 
+&lt;/p&gt;
+&lt;p&gt;This short episode is rife with the kind of gritty--even gruesome--details readers have come to expect from the Newbery Honor author. In an afterword, Paulsen reminds readers that he bases his stories on personal experiences and his extensive knowledge of the wild side of nature. 
+&lt;/p&gt;
+&lt;p&gt;Confidential to avid fans: an intimation of romance amid all the rugged drama hints that &lt;em&gt;this&lt;/em&gt; will not be the last &lt;em&gt;Brian&lt;/em&gt; book, either. (Ages 10 to 13) &lt;em&gt;--Emilie Coulter&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;From School Library Journal&lt;/h3&gt;
+&lt;p&gt;Grade 6-9-In an author's note, Paulsen explains why he decided to reopen the story first begun in Hatchet (Bradbury, 1987). In this short installment, Brian, now 16, is back in the wilderness and encounters a savagely wounded dog. He makes his way to the lake island home of the Cree man he met in Brian's Return (Delacorte, 1999), where he discovers the tragedy that led to the dog's liberation. David and his wife have been partially eaten by a bear, which necessitates the hunt mentioned in the title and described in the final chapter. Throughout, the protagonist frequently remembers events from his original stranding, alludes to the problems he had faced trying to return to "civilization," and ultimately explains the special arrangement by which he has returned to the "bush" instead of high school. Although the story does stand alone, these many references will make the audience want to read (or reread) the earlier books. This story is not as well developed as the other episodes but it is a must-read for the hordes of existing Hatchet fans out there, and it may also serve to draw some new readers into the fold. An afterword discusses bear behavior and Paulsen's experiences with these animals.&lt;br /&gt;
+&lt;em&gt;Sean George, Memphis-Shelby County Public Library &amp;amp; Information Center, Memphis, TN&lt;/em&gt;&lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553494150</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Children's Books</dc:subject>
+        <meta content="Brian Robeson" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T23:00:25.510000+00:00" name="calibre:timestamp"/>
+        <meta content="Brian's Hunt" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Children's Books&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

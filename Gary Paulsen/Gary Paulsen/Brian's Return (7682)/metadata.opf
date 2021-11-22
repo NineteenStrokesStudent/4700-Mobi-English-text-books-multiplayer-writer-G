@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e2c1740-fe1d-4a18-8dcd-161693018a2e</dc:identifier>
+        <dc:title>Brian's Return</dc:title>
+        <dc:creator opf:file-as="Paulsen, Gary" opf:role="aut">Gary Paulsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-05-08T23:03:57.183000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;p&gt;A deer in his canoe, a bear attack, a leg stabbed with an arrowhead--it's just another week in the life of 16-year-old Brian Robeson. In his opinion, this beats a date at Mackey's Pizza Den, a fight with a bully, and a video game at the mall any day. After having survived a plane crash and 54 days in the Canadian wilderness several years earlier, Brian can't seem to fit into "civilization." The world of high school and family life makes no sense anymore. So Brian begins to plan. It's time to return to the woods. This time, though, he makes no plans to come back home. 
+&lt;/p&gt;
+&lt;p&gt;Gary Paulsen, the popular author of many critically acclaimed books for young people and winner of the 1997 Margaret A. Edward Award, has written another sequel to the Newbery Honor Book __. (&lt;strong&gt; and &lt;/strong&gt; were earlier sequels.) Paulsen's graphic and detailed descriptions of Brian's adventures demonstrate a deep familiarity and connection to the wilderness; and in fact the author has spent much of his life in the bush, living almost entirely off the land. Brian's experiences in nature parallel his growing independence and maturity; readers who don't feel like they "fit in" will easily relate to the young protagonist's search for identity and purity. (Ages 11 and older) &lt;em&gt;--Emilie Coulter&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;The appearance of yet another sequel to Hatchet may raise a few eyebrows, but Paulsen delivers a vigorous, stirring story that stands on its own merits. Whereas the previous continuations, The River and Brian's Winter, essentially offer more of the same survivalist thrills that have made Hatchet so popular, this novel goes further, posing a more profound question: How does someone go from living on the edge to polite membership in ordinary society? (Paulsen addresses the same theme, albeit more grimly, in his Civil War novel Soldier's Heart.) Here, Brian has returned to his mother's house and can barely reconcile the seemingly arbitrary demands of high school with the life-or-death challenges he surmounted during his months alone in the wilderness. With the aid of a counselor, Brian formulates what had been an almost instinctual, unacknowledged plan to revisit the bush, and this solo trip, not his interlude with his mother, marks the true "return" of the title. The few cliff-hangers are almost beside the point: the great adventure here is the embrace of the wild, the knowledge of life at its most elemental. Aside from its occasional use of YA conventions (e.g., the preternaturally sensitive counselor; jejune rhapsodies over the relevance of Shakespeare), this work is bold, confident and persuasive, its transcendental themes powerfully seductive. Ages 12-up. &lt;br /&gt;
+Copyright 1998 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440413790</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Children's Books</dc:subject>
+        <meta content="Brian Robeson" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T23:00:23.518000+00:00" name="calibre:timestamp"/>
+        <meta content="Brian's Return" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Children's Books&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fa17ac6-8d40-4419-954a-7d3dd37cbad5</dc:identifier>
+        <dc:title>Let's Take the Long Way Home: A Memoir of Friendship</dc:title>
+        <dc:creator opf:file-as="Caldwell, Gail" opf:role="aut">Gail Caldwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-10T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+“It’s an old, old story: I had a friend and we shared everything, and then she died and so we shared that, too.” So begins this gorgeous memoir by Pulitzer Prize winner Gail Caldwell, a testament to the power of friendship, a story of how an extraordinary bond between two women can illuminate the loneliest, funniest, hardest moments in life, including the final and ultimate challenge.They met over their dogs. Both writers, Gail Caldwell and Caroline Knapp became best friends, talking about everything from their shared struggle with alcohol to their love of books. They walked the woods of New England and rowed on the Charles River, and the miles they logged on land and water became a measure of the interior ground they covered. From disparate backgrounds but with striking emotional similarities, these two private, fiercely self-reliant women created an attachment more profound than either of them could ever have foreseen.  Rich with the joys of raising dogs and the rivalries of competitive sports, their friendship helped them define the ordinary moments of life as the ones worth cherishing. Then, several years into this remarkable connection, Knapp was diagnosed with terminal lung cancer. With her signature exquisite prose, Caldwell mines the deepest levels of devotion and grief in this  moving memoir about treasuring and losing a best friend, and about coming of age in midlife. Let’s Take the Long Way Home is a celebration of life and of the transformation that comes from intimate connection—and it affirms, once again, why Gail Caldwell is recognized as one of our bravest and most honest literary voices.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781400067381</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-08T20:24:25.309000+00:00" name="calibre:timestamp"/>
+        <meta content="Let's Take the Long Way Home: A Memoir of Friendship" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
