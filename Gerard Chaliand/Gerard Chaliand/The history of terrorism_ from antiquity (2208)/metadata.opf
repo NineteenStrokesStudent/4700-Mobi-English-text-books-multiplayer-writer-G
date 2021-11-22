@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d3e4557-c603-413b-8659-80ab01cc1320</dc:identifier>
+        <dc:title>The history of terrorism: from antiquity to al Qaeda</dc:title>
+        <dc:creator opf:file-as="Chaliand, Gérard &amp; Blin, Arnaud" opf:role="aut">Gérard Chaliand</dc:creator>
+        <dc:creator opf:file-as="Chaliand, Gérard &amp; Blin, Arnaud" opf:role="aut">Arnaud Blin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-01T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+This authoritative work provides an essential perspective on terrorism by offering a rare opportunity for analysis and reflection at a time of ongoing violence, chilling threats, and renewed reprisals. In it, some of the best international specialists working on the subject today examine terrorism's long and complex history from antiquity to the present day and find that terror, long the weapon of the weak against the strong, is a tactic as old as warfare itself. Beginning with the Zealots of Antiquity, the contributors discuss the Assassins of the Middle Ages, the 1789 Terror movement in Europe, Bolshevik terrorism during the Russian Revolution, Stalinism, "resistance" terrorism during World War II, and Latin American revolutionary movements of the late 1960s. Finally, they consider the emergence of modern transnational terrorism, focusing on the roots of Islamic terrorism, al Qaeda, and the rise of the contemporary suicide martyr. Along the way, they provide a groundbreaking analysis of how terrorism has been perceived throughout history. What becomes powerfully clear is that only through deeper understanding can we fully grasp the present dangers of a phenomenon whose repercussions are far from over.Includes essays by François Géré, Rohan Gunaratna, Olivier Hubac-Occhipinti, Ariel Merari, Philippe Migaux, Yves Ternon</dc:description>
+        <dc:publisher>University of California Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780520247093</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-20T09:03:19.083000+00:00" name="calibre:timestamp"/>
+        <meta content="history of terrorism: from antiquity to al Qaeda, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

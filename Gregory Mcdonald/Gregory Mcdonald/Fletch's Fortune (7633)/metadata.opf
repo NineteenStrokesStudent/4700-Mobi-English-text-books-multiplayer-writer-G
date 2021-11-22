@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc3b5182-43bc-4bb6-9d9b-34da5d10546a</dc:identifier>
+        <dc:title>Fletch's Fortune</dc:title>
+        <dc:creator opf:file-as="Mcdonald, Gregory" opf:role="aut">Gregory Mcdonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-03-12T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;?Bright and entertaining?. Fletch, as irreverent and smart as ever, is back.? --_The New York Times Book Review _  &lt;/p&gt;&lt;p&gt;?Good old-fashioned page-turning fun, a flair that has been absent from novels of this sort since the days of vintage James Bond.? _--Penthouse  &lt;/p&gt;&lt;p&gt;_ -- &lt;em&gt;Review&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Fletch’s Fortune  &lt;/p&gt;&lt;p&gt;He hadn’t been a practicing journalist for years, although people remembered him and he still has a few contacts. And he’s pretty sure he hasn’t paid his dues to the American Journalism Alliance anytime recently. But somebody has.  &lt;/p&gt;&lt;p&gt;Fletch’s Fortune  &lt;/p&gt;&lt;p&gt;Enjoying himself on the French Riviera, developing a killer tan, and sleeping with the neighbor’s wife, Fletch is feeling pretty flush. But when agents Eggers and Fabens show up with a little more information about Fletch than is comfortable and an invitation to the A.J.A. convention, how could he refuse?   &lt;/p&gt;&lt;p&gt;Fletch’s Fortune  &lt;/p&gt;&lt;p&gt;So he finds himself enlisted as a spy among his peers. But before he can even set up his surveillance, there’s a murder. And almost everybody’s a suspect. Because a lot of people were employed by Walter March, and most of them had a reason to hate him. &lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375713552</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Fletch Mysteries: Chronological order" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-28T17:23:38.628000+00:00" name="calibre:timestamp"/>
+        <meta content="Fletch's Fortune" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e77dc5fe-cc0e-4a52-a49c-0d5303363ab6</dc:identifier>
+        <dc:title>Wild Cards: Deuces Down</dc:title>
+        <dc:creator opf:file-as="Martin, George R. R. &amp; Cassutt, Michael" opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:creator opf:file-as="Martin, George R. R. &amp; Cassutt, Michael" opf:role="aut">Michael Cassutt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-25T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;On September 15, 1946, a biological weapon created by an alien race was accidentally detonated above the streets of New York City, killing countless numbers of men, women, and children. But those who survived the initial explosion soon began to wish they had died also, once they discovered they had been forever mutated by the virus unleashed in the blast. . . . &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When the first volume in the Wild Cards series made its debut in 1986, it caused a sensation in the science fiction and fantasy communities. Here were stories of superpowered beings in a real world setting, detailing the lives of Â³AcesÂ²?those given superhuman powers by the Â³Wild CardsÂ² virus?and Â³JokersÂ²?those whom the virus transformed into freaks and monsters. Over the course of fifteen volumes, the world created by editor George R.R. Martin and some of SFÂ¹s most talented writers was explored through the eyes of both Aces and Jokers across the globe. &lt;/p&gt;&lt;p&gt;In this all-new collection of Wild Cards stories, the spotlight is on the most unusual Wild Cards of them all?the Deuces. As youÂ¹ll discover in this thrilling collection, their role in the Wild Cards Universe is just as important as that of the Aces and the Jokers. In fact, their actions have affected the course of Wild Cards history. &lt;/p&gt;&lt;p&gt;Set in an alternate, shared-world universe, Deuces Down is the one place youÂ¹ll find such never-before-told tales as John J. MillerÂ¹s exciting 1969 World Series between the Baltimore Orioles and the Brooklyn Dodgers; Michael CassuttÂ¹s first moon landing, when the whole world wasnÂ¹t watching; Walton SimonsÂ¹ Great New York City Blackout of 1977; Melinda M. SnodgrassÂ¹s account of Grace KellyÂ¹s mysterious disappearance during the filming of The French LieutenantÂ¹s Woman. ItÂ¹s a strange and terrifying world, where anything can happen. A world of Wild Cards. &lt;/p&gt;</dc:description>
+        <dc:publisher>I Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743445054</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Wild Cards" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-03T05:00:19.132000+00:00" name="calibre:timestamp"/>
+        <meta content="Wild Cards: Deuces Down" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

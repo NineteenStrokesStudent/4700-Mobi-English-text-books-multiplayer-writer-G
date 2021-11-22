@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03f8a044-79bc-4855-9e06-4f140e24cdbf</dc:identifier>
+        <dc:title>Eater</dc:title>
+        <dc:creator opf:file-as="Benford, Gregory" opf:role="aut">Gregory Benford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-11T08:31:07.328000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Benford (The Martian Race), a physics professor at UC-Irvine and a Nebula winner for his novel Timescape, is one of the leading exponents of hard SFAwhich, no matter how fantastic it might seem, never violates established scientific laws. His newest novel takes one of the oldest SF plotsAfirst contactAand spruces it up with great success using the latest developments in astronomy and, in particular, new information on black holes. In the early 21st century, astronomers observe what appears to be a distant gamma-ray burster, a black hole swallowing another star many light years away. The data is troubling because a second burster occurs only 13 h ours later, which, given the immense distance between stars, should be impossible. Eventually, the astronomers realize that the black hole, rather than being incredibly distant, is on the edge of our solar system, and moving our way at considerable speed. Stranger still, it appears to be under intelligent guidance, or, perhaps, to be intelligent itself. One of Benford's specialties is presenting science the way it's really done, and this is clearly the case here. His three astronomer-protagonistsABenjamin Knowlton; his cancer-stricken wife, Channing; and the British Astronomer Royal, Kingsley Dart, whom Benford has partly based on Freeman DysonAare nicely drawn and highly believable. His alien is, well, incredibly alien and endlessly fascinating. Less successful are Benford's government officials, who can come across as caricaturesAbut this is a minor fault. Full of astronomical pyrotechnics and the kind of intellectual verbal fencing that seems to go along with creative scientific thinking, Benford's latest should delight any serious reader of SF. Agent, Ralph Vicinanza. &lt;br /&gt;
+Copyright 2000 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;From School Library Journal&lt;/h3&gt;
+&lt;p&gt;YA-Long before there was time, a black hole became a wandering entity, feeding on asteroids, planets, and remnants of the Big Bang. Eventually, it began engulfing ancient civilizations in its never-ending roaming across the expanse of time and space. When it reaches the edge of Earth's solar system, three scientists, Benjamin Knowlton, his wife Channing, and their friend and colleague Kingsley Dart, take on the fight to prevent the black hole, named Eater, from annihilating the Earth. Basing the foundation of the story on scientific knowledge in the fields of physics and astronomy, Benford gives enough background in both areas to elucidate concepts without overstating the obvious. He develops the main characters as the story unfolds, paralleling their personal changes, their shared history, and their heroic interactions with the increasing malevolence of the Eater. Deftly weaving scientific procedure around an exciting plot of adventure and destruction, and inserting the interpersonal relationships of three intense personalities, Benford creates scientific fiction that sounds very real.&lt;br /&gt;
+&lt;em&gt;Pam Johnson, Fairfax County Public Library, VA &lt;/em&gt;&lt;br /&gt;
+Copyright 2000 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380790562</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-14T08:26:26.881000+00:00" name="calibre:timestamp"/>
+        <meta content="Eater" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

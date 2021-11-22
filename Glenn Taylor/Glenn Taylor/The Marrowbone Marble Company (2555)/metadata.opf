@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2555</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95868b6a-95fc-4311-8296-4ed33d6c68c2</dc:identifier>
+        <dc:title>The Marrowbone Marble Company</dc:title>
+        <dc:creator opf:file-as="Taylor, Glenn" opf:role="aut">Glenn Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+From the author of *The Ballad of Trenchmouth Taggart*, a finalist for the 2009 National Book Critics Circle Award, comes this sweeping novel of love and war, power and oppression, faith and deception, over the course of three defining american decades.   
+
+ 1941. Loyal Ledford works the swing shift tending furnace at the Mann Glass factory in Huntington, West Virginia. He courts Rachel, the boss's daughter, a company nurse with spike-straight posture and coal-black hair. But when Pearl Harbor is attacked, Ledford, like so many young men of his time, sets his life on a new course.  
+
+ Upon his return from service in the war, Ledford starts a family with Rachel, but he chafes under the authority at Mann Glass. He is a lost man, disconnected from the present and haunted by his violent past, until he meets his cousins, the Bonecutter brothers. Their land, mysterious, elemental Marrowbone Cut, calls to Ledford, and it is there, with help from an unlikely bunch, that the Marrowbone Marble Company is slowly forged. Over the next two decades, the factory grounds become a vanguard of the civil rights movement and the war on poverty, a home for those intent on change. Such a home inevitably invites trouble, and Ledford must fight for his family.  
+
+ Returning to the West Virginia territory of the critically acclaimed *The Ballad of Trenchmouth Taggart*, Glenn Taylor recounts the transformative journey of a man and his community. Told in clean and powerful prose in the tradition of Cormac McCarthy and John Irving, *The Marrowbone Marble Company* takes a harrowing look at the issues of race and class throughout the tumultuous 1950s and '60s. It is a story of struggle and loss, righteousness and redemption, and it can only be found in the hills of Marrowbone.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061923937</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-27T06:38:29.497000+00:00" name="calibre:timestamp"/>
+        <meta content="Marrowbone Marble Company, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

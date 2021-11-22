@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">454edb0f-385b-44f7-a4c5-70dae808cdfe</dc:identifier>
+        <dc:title>The Door of the Unreal</dc:title>
+        <dc:creator opf:file-as="Biss, Gerald" opf:role="aut">Gerald Biss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-14T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+General Books publication date: 2009  Original publication date: 1920  Original Publisher: Putnam  Subjects: Werewolves  Notes: This is a black and white OCR reprint of the original. It has no illustrations and there may be typos or missing text.  When you buy the General Books edition of this book you get free trial access to Million-Books.com where you can select from more than a million books for free.  Excerpt:   The Door of the Unreal  THE BRIGHTON ROAD  My name is Lincoln Osgood, my age thirty, my nationality American, my means -- well, such as never to cause me a moment's anxiety or the negation of any fad; my hobbies have always been travel and science, the latter more particularly in its human than in its mechanical aspects. I am not, if I may say so, in any way the "Yankee millionaire" of popular fiction or even of fact. I both write and talk the King's English, I trust; and to tell the truth, I was educated up at Christ Church, Oxford, which is my first link with these extraordinary incidents, which it has now fallen to my lot to chronicle.  It was up at Oxford ten years ago that I first met Burgess Clymping, with whom, from the  first night we sat next to each other in the wonderful old hall of the House with its centuries of historical portraits, I struck up the great friendship of my life. He was a year younger than I, the owner of a nice property in Sussex and had seen but little of life in those days, whereas I had travelled a lot even then for my age. It is the accident of this long friendship and my travels in obscure and unfrequented parts that brought me into the circle of the strange doings I am about to relate -- to which, by good luck, I held the key.  I am in no way the hero of the piece -- if hero, in the conventional sense, there be at all -- not even the protagonist, as the Greeks used to call it. I am merely the "handy man" of the play, so to speak, who chanced into the middle of this unconventional drama at its height, and helped to see it...</dc:description>
+        <dc:publisher>General Books LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781150511455</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-03T07:05:20.174000+00:00" name="calibre:timestamp"/>
+        <meta content="Door of the Unreal, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbcc53d6-1e88-4c7a-9b08-4e075c40ccc2</dc:identifier>
+        <dc:title>Homer's Odyssey: A Fearless Feline Tale, Or How I Learned about Love and Life with a Blind Wonder Cat</dc:title>
+        <dc:creator opf:file-as="Cooper, Gwen" opf:role="aut">Gwen Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-25T04:40:11.993000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*Once in nine lives,something extraordinary happens...*****The last thing Gwen Cooper wanted was another cat. She already had two, not to mention a phenomenally underpaying job and a recently broken heart. Then Gwen’s veterinarian called with a story about a three-week-old eyeless kitten who’d been abandoned. It was love at first sight.Everyone warned that Homer would always be an “underachiever,” never as playful or independent as other cats. But the kitten nobody believed in quickly grew into a three-pound dynamo, a tiny daredevil with a giant heart who eagerly made friends with every human who crossed his path. Homer scaled seven-foot bookcases with ease and leapt five feet into the air to catch flies in mid-buzz. He survived being trapped alone for days after 9/11 in an apartment near the World Trade Center, and even saved Gwen’s life when he chased off an intruder who broke into their home in the middle of the night. But it was Homer’s unswerving loyalty, his infinite capacity for love, and his joy in the face of all obstacles that inspired Gwen daily and transformed her life. And by the time she met the man she would marry, she realized Homer had taught her the most important lesson of all: Love isn’t something you see with your eyes. **Homer’s Odyssey** is the once-in-a-lifetime story of an extraordinary cat and his human companion. It celebrates the refusal to accept limits—on love, ability, or hope against overwhelming odds. By turns jubilant and moving, it’s a memoir for anybody who’s ever fallen completely and helplessly in love with a pet.*From the Hardcover edition.*</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385343855</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-26T04:39:00.478000+00:00" name="calibre:timestamp"/>
+        <meta content="Homer's Odyssey: A Fearless Feline Tale, Or How I Learned about Love and Life with a Blind Wonder Cat" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

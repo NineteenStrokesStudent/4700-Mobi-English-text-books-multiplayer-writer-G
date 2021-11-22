@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7abb970-b0b9-4a8f-93fc-7d1e9ac3ce8e</dc:identifier>
+        <dc:title>The Phantom of the Opera</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1970-07-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The Phantom of the Opera (in French, Le Fantome de l'Opera) is a French novel by Gaston Leroux. It was first published as a serialization in Le Gaulois from September 23, 1909 to January 8, 1910. Some believe it to have been inspired by George du Maurier's Trilby. Trilby is based on real events related to the Paris Opera House which Leroux investigated, initiated by stories of an opera house ghost. Initially, the novel sold very poorly and was even out of print several times during the twentieth century. Today, it is considered to be a classic of French literature, though it is overshadowed by its many subsequent adaptations. The novel was translated into English in 1911. It has since been adapted many times into film and stage productions, the most notable of which were the 1925 film depiction and Andrew Lloyd Webber's 1986 musical, starring Michael Crawford as the Phantom, Steve Barton as Raoul, and Sarah Brightman as Christine, which is now the longest running Broadway show in history and the most lucrative entertainment enterprise of all time, its worldwide box office over the past 20 years out-grossing even the highest grossing film in history, Titanic. *(Quote from wikipedia.org)*
+
+
+
+**About the Author**
+
+
+
+Gaston Louis Alfred Leroux (6 May 1868, Paris, France - 15 April 1927) was a French journalist, detective and novelist.
+
+
+
+In the English-speaking world, he is best known for writing the novel The Phantom of the Opera (Le Fantome de l'Opera, 1910), which has been made into several film and stage productions of the same name, such as the 1925 film starring Lon Chaney; and Andrew Lloyd Webber's 1986 musical. It was also the basis of the 1990 novel Phantom by Susan Kay.
+
+
+
+Leroux went to school in Normandy and studied law in Paris, graduating in 1889. He inherited mil</dc:description>
+        <dc:publisher>Forgotten Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781606800973</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-26T13:39:42.459000+00:00" name="calibre:timestamp"/>
+        <meta content="Phantom of the Opera, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

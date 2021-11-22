@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95aa8336-0027-4cea-9645-a3d86799fe5a</dc:identifier>
+        <dc:title>Doomstalker</dc:title>
+        <dc:creator opf:file-as="Cook, Glen" opf:role="aut">Glen Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-08-15T07:00:00+00:00</dc:date>
+        <dc:description>Doomstalker (1985) is the first Fantasy novel in the Darkwar trilogy. It is set on a world far away in time and space where the meth live. In the Upper Ponath, they live in ignorance and poverty, but elsewhere the silth rule a world of technology and spaceflight. 
+
+In this novel, Marilka is a ten year old meth in a litter of three pups. Her dam is Skiljan, head of a loghouse in the Degnan packstead. 
+
+Kublin is another pup in the litter. He is small and weak, but has more intelligence than the other male littermate Zamberlin. 
+
+In this story, Marilka and Kublin like to explore together. Marilka has less fear -- as appropriate for a female -- but Kublin follows her into very fearful situations. They have been testing their limits with the Machen Cave, where the Wise hold their rituals. 
+
+Kublin detects something within the cave, but Marilka can only sense the presence of old Pohsit, the sagan of the Wise. But as she gets closer, Marilka begins to detects something scary within the cave. Both decide to go elsewhere. 
+
+Pohsit has decided that Marilka is a silth. Marilka doesn't know what a silth is, but Pohsit wants her dead. And the death of Marilka will also lead to the death of her littermates.
+
+Marilka and Kublin learn to run around and tire out Pohsit. But they keep returning to the cave. Although Marilka can now sense the thing, she still doesn't know what it is. 
+
+Then the worse winter in living memory comes to the Upper Ponath. The Degnan huntresses gather meat and the males collect plants and firewood. Then the nomads invade the Upper Ponath in large numbers. 
+
+Other meth packsteads in the area are overwhelmed. Then hundreds of nomads come to Degnan. The nomads lose many to the Degnan pack, but they eventually overrun the packstead. 
+
+Runners sent to the packfast return with three silth. These kill or drive away the remaining nomads, but they take the three Degnan survivors back to the packfast. They insist that Marilka shall become a sister, as the silth call themselves. 
+
+This tale exposes Marilka to advanced technology, but doesn't lead her to admiration of the sisters. She is trained in three ways, including the use of her powers. But much is withheld from her by the sisters. 
+
+This story presents a change in the author's style. Over a decade after his first novel -- The Heirs of Babylon -- and the start of five series, the author tries something new. His previous works were about human cultures or something very similar. 
+
+In this tale, the author depicts truly alien creatures loosely based on wolves. Then he shows a cultural clash between the primitives and the more advanced society. And he shows this conflict through the eyes of a primitive. 
+
+This story ends with a cliffhanger. The next installment -- Warlock -- will reveal the extend of the disaster. Read and enjoy! 
+
+Highly recommended for Cook fans and for anyone who enjoys tales of alien cultures, witch powers, and young heroines. 
+
+-Arthur W. Jordin</dc:description>
+        <dc:publisher>Warner Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780445200623</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Darkwar Trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-07T02:40:00.320000+00:00" name="calibre:timestamp"/>
+        <meta content="Doomstalker" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

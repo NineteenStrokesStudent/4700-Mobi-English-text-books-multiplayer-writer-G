@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ac58bcf-26c8-49c8-90ec-7a2cc9cf6277</dc:identifier>
+        <dc:title>Honor thy father</dc:title>
+        <dc:creator opf:file-as="Talese, Gay" opf:role="aut">Gay Talese</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1971-09-15T06:36:40.281000+00:00</dc:date>
+        <dc:description>June 2009
+Review
+“Mr. Talese’s insight will do more to help us understand the criminal than any amount of moral recrimination.” (Times Literary Supplement (London) )
+
+“Brilliant...Indispensable.” (Los Angeles Times )
+
+“An incredible job of reporting.” (Mario Puzo )
+
+“An invaluable document.” (New York Review of Books )
+
+“A marvelous piece of work, showing how a good journalist can catch a man just as he is ready to reconsider his past and is anxious to find someone who will listen...A book about a vanishing way of life in America: the Mafia.” (Newsweek )
+Product Description
+
+    A classic masterwork newly updated
+
+    The electrifying true story of the rise and fall of New York's notorious Bonanno crime family
+
+On New York's Park Avenue on a rainy Tuesday night in October 1964, the famous Mafia chieftain Joseph Bonanno was kidnapped by two mobsters and reported by the police as dead on the following morning. More than a year later, Bonanno mysteriously reappeared, setting off a bloody mob feud that came to be known as the “Banana War.”
+
+In this monumental work—packed with intimate details and brilliant reporting—bestselling author Gay Talese first brought to the American consciousness a world and a life previously known to only a few. No other book has done more to acquaint readers with the secrets, structure, wars, power plays, family lives, and fascinating, frightening personalities of the Mafia.</dc:description>
+        <dc:publisher>World Pub.</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-25T06:36:03.643000+00:00" name="calibre:timestamp"/>
+        <meta content="Honor thy father" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c299dd02-7bdd-4159-8372-b39c3465c263</dc:identifier>
+        <dc:title>Confess, Fletch</dc:title>
+        <dc:creator opf:file-as="Mcdonald, Gregory" opf:role="aut">Gregory Mcdonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-03-12T17:18:56.759000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;?Has all the zest, humor and spare lean prose of its forerunner: it has a beautifully complex plot which leaves you squirming at the final sentence and a set of slippery characters who never turn out to be just exactly what they seem. &lt;em&gt;Confess, Fletch&lt;/em&gt; is as stimulent slipped into your nightcap that will have you up to dawn no matter what you think you have to do tomorrow.? --Joe Gores -- &lt;em&gt;Review&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Confess, Fletch  &lt;/p&gt;&lt;p&gt;The flight from Rome had been pleasant enough, even if the business he was on wasn’t exactly. His Italian fianc?e’s father had been kidnapped and presumably murdered, and Fletch is on the trail of a stolen art collection that is her only patrimony. But when he arrives in his apartment to find a dead body, things start to get complicated.   &lt;/p&gt;&lt;p&gt;Confess, Fletch  &lt;/p&gt;&lt;p&gt;Inspector Flynn found him a little glib for someone who seemed to be the only likely suspect in a pretty clear case of homicide. He wasn’t exactly uncooperative, but it wasn’t like he was entirely forthcoming either. And Flynn wasn’t entirely convinced that the nineteenth-century Western artist Edgar Arthur Tharp really occupied most of Fletch’s thoughts.  &lt;/p&gt;&lt;p&gt;Confess, Fletch  &lt;/p&gt;&lt;p&gt;With the police on his tail and a few other things to do beside prove his own innocence, Fletch makes himself at home in Boston, renting a van, painting it black, and breaking into a private art gallery. That is when he’s not “entertaining” his future mother-in-law &lt;br /&gt;and visiting with the good Inspector Flynn and his family. &lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375713484</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Fletch Mysteries: Chronological order" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-28T17:13:29.895000+00:00" name="calibre:timestamp"/>
+        <meta content="Confess, Fletch" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2444</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85ca29b5-355e-4425-8955-02152f480d9b</dc:identifier>
+        <dc:title>The Strain</dc:title>
+        <dc:creator opf:file-as="Toro, Guillermo Del" opf:role="aut">Guillermo del Toro</dc:creator>
+        <dc:creator opf:file-as="Toro, Guillermo Del" opf:role="aut">Chuck Hogan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-02T01:08:18.875000+00:00</dc:date>
+        <dc:description>SUMMARY:
+The visionary creator of the Academy Award-winning Pan's Labyrinth and a Hammett Award-winning author bring their imaginations to this bold, epic novel about a horrifying battle between man and vampire that threatens all humanity. It is the first installment in a thrilling trilogy and an extraordinary international publishing event.  The Strain  They have always been here. Vampires. In secret and in darkness. Waiting. Now their time has come.  In one week, Manhattan will be gone. In one month, the country.  In two months—the world.  A Boeing 777 arrives at JFK and is on its way across the tarmac, when it suddenly stops dead. All window shades are pulled down. All lights are out. All communication channels have gone quiet. Crews on the ground are lost for answers, but an alert goes out to the CDC. Dr. Eph Goodweather, head of their Canary project, a rapid-response team that investigates biological threats, gets the call and boards the plane. What he finds makes his blood run cold.  In a pawnshop in Spanish Harlem, a former professor and survivor of the Holocaust named Abraham Setrakian knows something is happening. And he knows the time has come, that a war is brewing . . .  So begins a battle of mammoth proportions as the vampiric virus that has infected New York begins to spill out into the streets. Eph, who is joined by Setrakian and a motley crew of fighters, must now find a way to stop the contagion and save his city—a city that includes his wife and son—before it is too late.</dc:description>
+        <dc:publisher>William Morrow</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061558238</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="The Strain Trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-25T01:07:54.995000+00:00" name="calibre:timestamp"/>
+        <meta content="Strain, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

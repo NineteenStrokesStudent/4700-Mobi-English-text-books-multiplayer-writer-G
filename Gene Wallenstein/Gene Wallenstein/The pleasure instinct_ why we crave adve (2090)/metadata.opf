@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2090</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">272793d9-333f-4d66-bcd5-51d8cf159698</dc:identifier>
+        <dc:title>The pleasure instinct: why we crave adventure, chocolate, pheromones, and music</dc:title>
+        <dc:creator opf:file-as="Wallenstein, Gene" opf:role="aut">Gene Wallenstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-05T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+An intriguing look at the evolutionary origins and purpose of human pleasure  "Wallenstein shows that pleasure is an evolutionary tactic, a means whereby natural selection gets us to do certain things--often for better, sometimes for worse. Either way, it behooves us to understand our own 'pleasure instinct, ' and this insightful, important book helps point the way." --David P. Barash, professor of psychology, University of Washington, and author of "How Women Got Their Curves and Other Just-So Stories"  Call it bliss, elation, cheer, thrills, spice, titillation, glee, exuberance, mirth, joy, jubilation, or just plain fun--we all desire it, but what is pleasure, exactly? Why do we spend so much of our time, money, and energy in pursuit of it? How does one person's relaxing glass of wine with dinner become another person's nightmare of alcoholism? And how is it that human beings can find pleasure in such a huge variety of experiences?  In the past, these questions have come mainly from the realms of moral philosophy, religion, and psychology. "The Pleasure Instinct" finds convincing answers in a place where few have thought to look before--human evolution. From our enjoyment of music to our cravings for chocolate, from our love of family and friends to our attraction to things of beauty, this book embarks on an intriguing exploration of the purpose of pleasure in our lives and in human history.</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780471619154</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-18T09:15:10.082000+00:00" name="calibre:timestamp"/>
+        <meta content="pleasure instinct: why we crave adventure, chocolate, pheromones, and music, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

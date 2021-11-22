@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">265b7046-12f6-400f-a1ce-3f6efbc417ad</dc:identifier>
+        <dc:title>Anvil of Stars</dc:title>
+        <dc:creator opf:file-as="Bear, Greg" opf:role="aut">Greg Bear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-02-01T07:07:24.335000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Like Orson Scott Card's &lt;em&gt;Ender's Game&lt;/em&gt;, this sequel to &lt;em&gt;The Forge of God&lt;/em&gt; explores the issues of morality and justice, using children as its vehicle. Bear's treatment differs, however, in that his characters have already lost their innocence and face their destiny with open eyes. As a stylist, Bear writes with a heady brilliance that communicates a sense of immediacy and credibility.” &lt;/p&gt;&lt;p&gt;--_Library Journal_ on &lt;em&gt;Anvil of Stars&lt;/em&gt;&lt;/p&gt;&lt;p&gt;__ &lt;/p&gt;&lt;p&gt;“One of the outstanding sf novels of the current year is also the best book so far from an author whose versatility is continually growing.  Literate hard-science or alien invasion novels are no longer rare, but a book such as this, which effectively blends these concepts and is also compellingly written, is a joy to behold.”     &lt;/p&gt;&lt;p&gt;_--ALA Booklist &lt;em&gt;on&lt;/em&gt; The Forge of God_&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;em&gt;The Forge of God&lt;/em&gt; described the destruction of Earth itself by self-replicating robots, Von Neumann machines designed to use the planet's mass to create more robotic creatures and spread throughout the Galaxy. Only a few humans have survived, aided by a mysterious alien race known only as “The Benefactors”, who arrived at Earth too late.&lt;/p&gt;&lt;p&gt;Now the small group of human survivors is determined to track down the criminal race who launched the planet killers. Humanity is given a starship by The Benefactors, and driven only by revenge they set out to find the unknown beings who are responsible for the destruction of Earth, and many other worlds.&lt;/p&gt;</dc:description>
+        <dc:publisher>ORB BOOKS</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765318145</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="The Forge of God" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-14T01:46:36.833000+00:00" name="calibre:timestamp"/>
+        <meta content="Anvil of Stars" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

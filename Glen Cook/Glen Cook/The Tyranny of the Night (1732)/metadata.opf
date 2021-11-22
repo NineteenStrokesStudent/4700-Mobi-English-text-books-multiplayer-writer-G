@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c72168a-4dc1-48df-b71f-eac336326cf3</dc:identifier>
+        <dc:title>The Tyranny of the Night</dc:title>
+        <dc:creator opf:file-as="Cook, Glen" opf:role="aut">Glen Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-30T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Welcome to the world of the Instrumentalities of the Night, where imps, demons, and dark gods rule in the spaces surrounding upstart humanity. At the edges of the world stand walls of ice which push slowly forward to reclaim the land for the night. And at the world’s center, in the Holy Land where two great religions were born, are the Wells of Ihrain, the source of the greatest magics. Over the last century the Patriarchs of the West have demanded crusades to claim the Wells from the Pramans, the followers of the Written. Now an uneasy truce extends between the Pramans and the West, waiting for a spark to start the conflict anew.
+
+ 
+
+Then, on a mission in the Holy Land, the young Praman warrior Else is attacked by a creature of the Dark—in effect, a minor god. Too ignorant to know that he can never prevail over such a thing, he fights it and wins, and in so doing, sets the terrors of the night against him.
+
+ 
+
+As a reward for his success, Else is sent as a spy to the heart of the Patriarchy to direct their attention away from further ventures into the Holy Lands. Dogged by hidden enemies and faithless allies, Else witnesses senseless butchery and surprising acts of faith as he penetrates to the very heart of the Patriarchy and rides alongside their armies in a new crusade against his own people. But the Night rides with him, too, sending two of its once-human agents from the far north to assassinate him.
+
+ 
+
+Submerged in his role, he begins to doubt his faith, his country, even his family. As his mission careens out of control, he faces unanswerable questions about his future. It is said that God will know his own, but can one who has slain gods ever know forgiveness?</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765345967</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Instrumentalities of the Night" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-07T02:58:08.461000+00:00" name="calibre:timestamp"/>
+        <meta content="Tyranny of the Night, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
